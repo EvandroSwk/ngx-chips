@@ -49,6 +49,7 @@
     "zone.js": "~0.10.2"
   },
   "dependencies": {
+    "@angular-devkit/schematics": "^9.1.7",
     "ng2-material-dropdown": "0.11.0",
     "tslib": "^1.10.0"
   },
