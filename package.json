@@ -74,7 +74,7 @@
     "lib": {
       "entryFile": "modules/index.ts",
       "externals": {
-        "ng2-material-dropdown": "ng2-material-dropdown"
+        "ng2-material-dropdown": "github:EvandroSwk/ng2-material-dropdown"
       }
     },
     "whitelistedNonPeerDependencies": [
